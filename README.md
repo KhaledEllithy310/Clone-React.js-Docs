@@ -2,10 +2,7 @@
 
 ## 👁️ Project Preview
 
-Live Preview 👉 <YOUR_LIVE_PREVIEW_LINK>
-
-Github Repo 👉 <YOUR_GITHUB_REPO_LINK></YOUR_GITHUB_REPO_LINK>
-🚩 It's a private repo, contact me to see.
+Live Preview 👉 <https://clone-react-js-docs.vercel.app/>
 
 ## 📝 Project Description & features
 
@@ -29,7 +26,7 @@ The Clone React.js Docs is a web application built to practice React router dom 
 ## 🧪 Project performance test
 
 Test the performance of the webpage after deploy by using GTmetrix.
-
+![performance](./public/images/performance.png)
 ## 👋 Get In Touch
 
 - 🌐 Website 👉 <https://khaledellithy-portfolio.vercel.app/>
