@@ -9,7 +9,7 @@ Github Repo 👉 <YOUR_GITHUB_REPO_LINK></YOUR_GITHUB_REPO_LINK>
 
 ## 📝 Project Description & features
 
-<YOUR_PROJECT_DESCRIPTION>
+The Clone React.js Docs is a web application built to practice React router dom on this website. This project is developed using diverse technologies including TypeScript for static typing, React.js for building the user interface, Tailwind CSS for styling, React Router Dom for routing, and React Hooks for state management.The application includes features such as protected routes, error handling for routes, and controller components. The protected routes ensure that certain parts of the application are only accessible to authenticated users. The application handles routing errors gracefully by displaying appropriate error messages. Controller components are used to manage state and pass down methods to child components.
 
 ## 🛠️ Project Tools
 

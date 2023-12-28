@@ -24,12 +24,12 @@ a {
 }
 
 .active {
-  color: rgb(20 158 202);
+  color: rgb(12, 194, 255);
   background-color: rgba(88, 175, 223, 0.1);
 }
 
 .aside-learn .active {
-  color: rgb(20 158 202);
+  color: rgb(3, 192, 255);
   background-color: rgba(88, 175, 223, 0.1);
   border-radius: 0 20px 20px 0;
 }
