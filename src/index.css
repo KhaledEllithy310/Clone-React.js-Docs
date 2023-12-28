@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #23272f;
+  color: white;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+  color: white;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.active {
+  color: rgb(20 158 202);
+  background-color: rgba(88, 175, 223, 0.1);
+}
+
+.aside-learn .active {
+  color: rgb(20 158 202);
+  background-color: rgba(88, 175, 223, 0.1);
+  border-radius: 0 20px 20px 0;
+}
+
+h1{
+  font-size: 2rem;
+font-weight: 700;
+text-transform: capitalize;
+}
